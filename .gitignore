@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+__pycache__/**
+__init__.py
+*.c
+*.pyd
+setup.py
